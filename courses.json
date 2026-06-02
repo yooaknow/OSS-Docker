@@ -22,5 +22,23 @@
     "year": "2025",
     "semester": "1",
     "grade": "A"
+  },
+  {
+    "course_name": "Python Programming",
+    "year": "2024",
+    "semester": "1",
+    "grade": "A+"
+  },
+  {
+    "course_name": "Data Structures",
+    "year": "2023",
+    "semester": "2",
+    "grade": "B+"
+  },
+  {
+    "course_name": "Artificial Intelligence",
+    "year": "2024",
+    "semester": "2",
+    "grade": "A+"
   }
 ]
